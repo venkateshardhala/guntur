@@ -5,3 +5,10 @@ grub
 kernel
 init
 runlevel
+rhel-7
+post
+mbr
+grub2
+kernel
+systemd
+targets
