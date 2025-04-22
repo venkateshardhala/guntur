@@ -1,0 +1,7 @@
+booting stages
+bios
+mbr
+grub
+kernel
+init
+runlevel
